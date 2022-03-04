@@ -1,0 +1,33 @@
+1. Verilmiş N ədədinin 3-ə və 7-ə bölünüb bölünmədiyini tapan alqoritm qurun.
+
+Pseudocode:
+
+Program task1.1
+Start
+
+Number N
+Input N
+if(Nmod3==0 and Nmod7==0)
+	then Print "divided"
+end if
+	
+else 
+	print "not divided"
+End program
+		
+
+
+(Başqa cür)
+Program task1.1
+Start
+
+Number N
+Input N
+
+if(N divisible by 3 and N divisible by 7)
+	then print "divided"
+end if
+	
+else
+	print "not divided"
+End program

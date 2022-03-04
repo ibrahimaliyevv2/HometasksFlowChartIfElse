@@ -1,0 +1,32 @@
+3. Verilmis 4 eded icerisinden necesinin  3-e bolunduyunu tapan alqoritm qurun
+
+Pseudocode:
+
+Program 1.3
+Start
+
+count = 0
+Given Numbers[4]
+
+For i 1 to 4:
+Input Numbers[4]
+	While(Numbers[i]mod3==0)
+		then count=count+1
+End while
+End for
+
+Print count
+
+End program
+
+
+Program 1.3v2
+Start
+
+get 4 number
+set our initial count to 0
+while the number is divided into 3
+	increase our count by 1
+end while
+
+end

@@ -1,0 +1,24 @@
+2.  X, Y, Z  ədədləri verilib. Bu ədədlərin ən kiçiyini tapan alqoritm qurun. (Yəni input olaraq 3 dəyişən qəbul etmişik)
+
+Pseudocode:
+
+Program1.2
+Start
+
+Numbers X,Y,Z
+Input X,Y,Z
+
+if X<Y and X<Z		
+	then print "X is smallest"
+end if
+
+if Y<X and Y<Z
+	then print "Y is smallest"
+end if
+
+if Z<X and Z<Y
+	then print "Z is smallest"
+end if 
+
+finish
+

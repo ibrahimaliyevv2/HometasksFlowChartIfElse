@@ -1,0 +1,18 @@
+4. Verilmis ayin ededine gore hansi fesil oldugunu tapan alqoritm qurun (misal ucun alqoritmdeki deyisene 5 yerlesdirdikde 5-ci  ayin hansi fesilde aldugunu geri dondurmelidir).
+
+Pseudocode:
+
+Program 1.4
+Start
+
+Input month m
+
+Case of number n
+	[12,1,2] : Print "WINTER"
+	[3,4,5]	 : Print "SPRING"
+	[6,7,8]	 : Print "SUMMER"
+	[9,10,11]: Print "AUTUMN"
+	Other: Print "Wrong option"
+End case
+
+End program
